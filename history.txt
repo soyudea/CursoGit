@@ -1,0 +1,6 @@
+Este es el inicio de mi curso Git Hub
+omar Torres
+edad 62 años
+Hoy les hablaré de mis objetivos
+"Pretendo ser experto en GIT"
+mañana hablaré de que es Git
